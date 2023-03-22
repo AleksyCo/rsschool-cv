@@ -2,7 +2,7 @@
 ************
 # Aleksey Kovalev
 
-![Alt text](../man-7816702__340.webp)
+![Photo](../man-7816702__340.webp)
 
 ## Junior JS Developer
 *************
