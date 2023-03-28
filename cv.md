@@ -1,6 +1,6 @@
 ### rsschool-cv
 ************
-# Aleksey Kovalev
+# Aleksey Alekseev
 
 ![Photo](../man-7816702__340.webp)
 
@@ -8,13 +8,13 @@
 *************
 ### Contact information:
 
-**Phone**: +48 572359725
+**Phone**: +48 325 142 478
 **Email**: akev.pl@gmail.com
 **Telegram**: @aleksyco
-**Discord**: Aliaksei Kavaliou(@AleksyCo)
+**Discord**: Aleksy#1383
 *************
 ### About Myself:
-Lawyer by education. I started my career in real estate and worked in a bank for the last ten years. I study programming and will try to change the field of activity.
+I study programming and will try to change the field of activity.
 *************
 ### Skills:
 * HTML
@@ -35,11 +35,10 @@ function isPangram(string){
 }
 ```
 ### Experiens:
-While working in a bank, i developed specifications for bank payment applications. I was also directly involved in the development and implementation of specifications for providing Priorbank's API (containing restricted information) to developers.
+in progress
 **********
 ### Education:
-* BSU (Belarusian State Univercity)
-* RS School Cource - JavaScript/Front-end. Stage 1 (in progress)
+ RS School Cource - JavaScript/Front-end. Stage 1 (in progress)
 *************
 ### Languages:
 * English - intermediate/upper-intermediate
